@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "aerovox:block/windsail" },
+    "facing=east": { "model": "aerovox:block/windsail", "y": 90 },
+    "facing=south": { "model": "aerovox:block/windsail", "y": 180 },
+    "facing=west": { "model": "aerovox:block/windsail", "y": 270 }
+  }
+}

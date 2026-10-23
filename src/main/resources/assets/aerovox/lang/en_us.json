@@ -1,0 +1,22 @@
+{
+  "itemGroup.aerovox.main": "Aerovox",
+  "item.aerovox.superglue": "Superglue",
+  "item.aerovox.assembly_tool": "Aircraft Assembly Tool",
+  "item.aerovox.controller_remote": "Controller Remote",
+  "block.aerovox.engine": "Aerovox Engine", "item.aerovox.engine": "Aerovox Engine",
+  "block.aerovox.motor": "Aerovox Motor", "item.aerovox.motor": "Aerovox Motor",
+  "block.aerovox.motor_rotator": "Motor Rotator", "item.aerovox.motor_rotator": "Motor Rotator",
+  "block.aerovox.reversed_motor_rotator": "Reversed Motor Rotator", "item.aerovox.reversed_motor_rotator": "Reversed Motor Rotator",
+  "block.aerovox.windsail_worker": "Windsail Worker", "item.aerovox.windsail_worker": "Windsail Worker",
+  "block.aerovox.inverted_windsail_worker": "Inverted Windsail Worker", "item.aerovox.inverted_windsail_worker": "Inverted Windsail Worker",
+  "block.aerovox.control_surface": "Control Surface", "item.aerovox.control_surface": "Control Surface",
+  "block.aerovox.windsail": "Windsail", "item.aerovox.windsail": "Windsail",
+  "block.aerovox.pilot_seat": "Pilot Seat", "item.aerovox.pilot_seat": "Pilot Seat",
+  "block.aerovox.controller": "Aerovox Controller", "item.aerovox.controller": "Aerovox Controller",
+  "block.aerovox.small_bomb_mount": "Small Bomb Mount", "item.aerovox.small_bomb_mount": "Small Bomb Mount",
+  "block.aerovox.bomb_mount": "Bomb Mount", "item.aerovox.bomb_mount": "Bomb Mount",
+  "block.aerovox.big_bomb_mount": "Big Bomb Mount", "item.aerovox.big_bomb_mount": "Big Bomb Mount",
+  "block.aerovox.landing_gear": "Landing Gear", "item.aerovox.landing_gear": "Landing Gear",
+  "entity.aerovox.aircraft": "Aerovox Aircraft",
+  "entity.aerovox.bomb": "Bomb"
+}
