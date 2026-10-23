@@ -522,7 +522,7 @@ public class AerovoxVehicle extends Entity {
     }
 
     @Override
-    protected boolean causeFallDamage(float fallDistance, float multiplier, DamageSource source) {
+    public boolean causeFallDamage(float fallDistance, float multiplier, DamageSource source) {
         return false;
     }
 
